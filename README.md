@@ -6,4 +6,4 @@
 
    <img align="center" alt="Doctors" width="400" src="https://github.com/vikaspabla/Healthcare-Dashboard-PowerBI/blob/main/Doctors.PNG">
 
-    <img align="center" alt="Patients" width="400" src="https://github.com/vikaspabla/Healthcare-Dashboard-PowerBI/blob/main/Patients.PNG">
+   <img align="center" alt="Patients" width="400" src="https://github.com/vikaspabla/Healthcare-Dashboard-PowerBI/blob/main/Patients.PNG">
